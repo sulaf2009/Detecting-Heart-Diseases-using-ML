@@ -12,6 +12,6 @@ dependencies:
 - numpy
 - matplotlib
 - seaborn
-- sklearn
+
 - jupyter
 - voila 
