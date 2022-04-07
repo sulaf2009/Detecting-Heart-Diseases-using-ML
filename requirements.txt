@@ -3,5 +3,9 @@ requests
 pandas
 textblob
 plotly-express
+bqplot
+ipympl
+ipyvolume
+scipy
 voila
 
